@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Programming using Python, Java, Web Development using django framework, Vue.js and Algorithm
 - 💞️ I’m looking to collaborate on a web development project
 - 🖊 I speak Korean, English, German and Japanese
+- 🗺 I'm currently in Seoul, korea
 - 📫 How to reach me : honeylee999@icloud.com
 
 <!---
